@@ -1,0 +1,1015 @@
+-a "The Wallet of Kai Lung" "Ernest Bramah" "1997" "1076.txt"
+-a "Far from the Madding Crowd" "Thomas Hardy" "1994" "107.txt"
+-a "Sword Blades and Poppy Seed" "Amy Lowell" "1997" "1020.txt"
+-a "The Life and Opinions of Tristram Shandy, Gentleman" "Laurence Sterne" "1997" "1079.txt"
+-a "The Scouts of the Valley" "Joseph A. Altsheler" "1997" "1078.txt"
+-a "The Wrecker" "Robert Louis Stevenson,Lloyd Osbourne" "2006" "1024.txt"
+-a "The Arrow of Gold" "Joseph Conrad" "2009" "1083.txt"
+-a "A Modest Proposal" "Jonathan Swift" "1997" "1080.txt"
+-a "Around the World in 80 Days" "Jules Verne" "2008" "103.txt"
+-a "Rolf In The Woods" "Ernest Thompson Seton" "1997" "1088.txt"
+-a "Baartock" "Lewis Roth" "1997" "1087.txt"
+-a "Poems" "Wilfred Owen" "1997" "1034.txt"
+-a "The Bickerstaff-Partridge Papers" "Jonathan Swift" "1997" "1090.txt"
+-a "Renascence and Other Poems" "Edna St. Vincent Millay" "2008" "109.txt"
+-a "The Life of John Bunyan" "Edmund Venables" "2005" "1037.txt"
+-s "sound" 4
+-a "Mrs. Warren's Profession" "George Bernard Shaw" "2006" "1097.txt"
+-s "moon" 4
+-s "cloud" 4
+-c 16
+-d 4
+-s "star" 4
+-s "sand" 4
+-s "sound" 4
+-s "leaf" 4
+-s "flower" 4
+-s "flower" 4
+-d 10
+-d 7
+-s "ocean" 4
+-s "rain" 4
+-s "lake" 4
+-s "blue" 4
+-s "star" 4
+-s "wave" 4
+-c 12
+-s "apple" 4
+-s "lake" 4
+-s "seed" 4
+-s "dog" 4
+-a "The Beast in the Jungle" "Henry James" "2005" "1093.txt"
+-s "stone" 4
+-s "rock" 4
+-s "wave" 4
+-a "The Three Taverns" "Edwin Arlington Robinson" "1997" "1040.txt"
+-s "sand" 4
+-s "water" 4
+-a "Alice's Adventures in Wonderland" "Lewis Carroll" "1994" "11.txt"
+-s "hill" 4
+-s "cat" 4
+-s "fish" 4
+-s "sun" 4
+-s "moon" 4
+-s "leaf" 4
+-s "sound" 4
+-a "The Riverman" "Stewart Edward White" "1997" "1099.txt"
+-s "run" 4
+-s "snow" 4
+-a "Venus and Adonis" "William Shakespeare" "1997" "1045.txt"
+-s "seed" 4
+-d 3
+-s "rain" 4
+-s "lake" 4
+-s "wood" 4
+-s "song" 4
+-s "light" 4
+-a "Freckles" "Gene Stratton-Porter" "2006" "111.txt"
+-s "road" 4
+-s "river" 4
+-s "blue" 4
+-s "dream" 4
+-s "dog" 4
+-s "sky" 4
+-s "moon" 4
+-c 21
+-s "earth" 4
+-s "cat" 4
+-s "snow" 4
+-a "King Richard III" "William Shakespeare" "1997" "1103.txt"
+-s "sound" 4
+-a "The Ruling Passion" "Henry van Dyke" "1997" "1048.txt"
+-a "Violists" "Richard McGowan" "1994" "112.txt"
+-a "Much Ado About Nothing" "William Shakespeare" "1997" "1118.txt"
+-d 15
+-a "Dark Lady of the Sonnets" "George Bernard Shaw" "2008" "1050.txt"
+-s "lake" 4
+-s "flower" 4
+-a "The Research Magnificent" "H. G. Wells" "1997" "1138.txt"
+-a "The Secret Garden" "Frances Hodgson Burnett" "2008" "113.txt"
+-a "Within the Tides" "Joseph Conrad" "2011" "1053.txt"
+-s "cat" 4
+-s "road" 4
+-s "sound" 4
+-s "fish" 4
+-s "fire" 4
+-s "tree" 4
+-a "Latter-Day Pamphlets" "Thomas Carlyle" "1997" "1140.txt"
+-c 30
+-s "earth" 4
+-s "earth" 4
+-s "seed" 4
+-a "Tenniel Illustrations for Alice in Wonderland" "Sir John Tenniel" "2008" "114.txt"
+-s "song" 4
+-c 31
+-s "wood" 4
+-s "run" 4
+-s "ocean" 4
+-s "rain" 4
+-s "ocean" 4
+-s "sound" 4
+-s "bird" 4
+-s "earth" 4
+-s "fire" 4
+-c 28
+-s "earth" 4
+-s "moon" 4
+-a "Jungle Tales of Tarzan" "Edgar Rice Burroughs" "2008" "106.txt"
+-a "In the Cage" "Henry James" "2005" "1144.txt"
+-s "wave" 4
+-s "wind" 4
+-s "ocean" 4
+-s "dream" 4
+-a "Notes on Life and Letters" "Joseph Conrad" "2005" "1143.txt"
+-s "song" 4
+-s "sand" 4
+-s "fish" 4
+-s "moon" 4
+-a "The Cask of Amontillado" "Edgar Allan Poe" "2010" "1063.txt"
+-c 34
+-s "star" 4
+-a "From London to Land's End" "Daniel Defoe" "2007" "1149.txt"
+-s "star" 4
+-s "road" 4
+-s "dog" 4
+-s "book" 4
+-a "From This World to the Next" "Henry Fielding" "2008" "1147.txt"
+-s "wind" 4
+-a "Personal Memoirs of U. S. Grant, Volume One" "Ulysses S. Grant" "2004" "1067.txt"
+-s "blue" 4
+-s "apple" 4
+-s "run" 4
+-s "wave" 4
+-s "stone" 4
+-d 14
+-c 34
+-s "sun" 4
+-s "sky" 4
+-s "rock" 4
+-s "path" 4
+-a "The Nibelungenlied" "Unknown" "1997" "1151.txt"
+-s "river" 4
+-s "snow" 4
+-a "The Danish History, Books I-IX" "Saxo Grammaticus" "2006" "1150.txt"
+-s "sky" 4
+-s "sand" 4
+-s "wave" 4
+-s "flower" 4
+-s "earth" 4
+-s "flower" 4
+-a "Divine Comedy, Longfellow's Translation, Hell" "Dante Alighieri" "1997" "1001.txt"
+-s "seed" 4
+-a "Damaged Goods" "Upton Sinclair" "1998" "1157.txt"
+-s "seed" 4
+-s "ocean" 4
+-s "sand" 4
+-s "sound" 4
+-d 12
+-s "dog" 4
+-s "wave" 4
+-a "The Chessmen of Mars" "Edgar Rice Burroughs" "1998" "1153.txt"
+-s "sound" 4
+-a "First Gutenberg Collection of Edgar Allan Poe" "Edgar Allan Poe" "1997" "1062.txt"
+-c 45
+-s "green" 4
+-s "snow" 4
+-s "star" 4
+-s "ocean" 4
+-s "run" 4
+-a "The Divine Comedy of Dante:  Purgatory" "Dante Alighieri" "2004" "1006.txt"
+-s "sky" 4
+-s "river" 4
+-s "grass" 4
+-s "run" 4
+-s "tree" 4
+-a "Jerry of the Islands" "Jack London" "2005" "1161.txt"
+-s "rain" 4
+-s "song" 4
+-s "wind" 4
+-s "book" 4
+-s "road" 4
+-d 9
+-c 43
+-s "sand" 4
+-s "leaf" 4
+-s "apple" 4
+-s "cloud" 4
+-s "cat" 4
+-s "fire" 4
+-a "The Game" "Jack London" "2005" "1160.txt"
+-a "The First Men In The Moon" "H. G. Wells" "2004" "1013.txt"
+-a "The Iron Heel" "Jack London" "2006" "1164.txt"
+-s "run" 4
+-s "rain" 4
+-s "snow" 4
+-s "water" 4
+-s "moon" 4
+-d 11
+-s "lake" 4
+-s "dog" 4
+-a "Adventure" "Jack London" "2005" "1163.txt"
+-s "song" 4
+-s "sun" 4
+-a "On the Improvement of the Understanding" "Baruch Spinoza" "1997" "1016.txt"
+-s "stone" 4
+-s "lake" 4
+-s "fish" 4
+-s "stone" 4
+-s "sand" 4
+-s "flower" 4
+-s "run" 4
+-s "snow" 4
+-s "hill" 4
+-a "The King James Bible" "Unknown" "2011" "10.txt"
+-s "cloud" 4
+-s "ocean" 4
+-s "fish" 4
+-s "rain" 4
+-s "path" 4
+-s "dream" 4
+-s "wind" 4
+-s "dog" 4
+-d 8
+-a "Beethoven's Fifth Symphony, in C-minor, Opus #67" "Ludwig van Beethoven" "2012" "117.txt"
+-s "hill" 4
+-s "ocean" 4
+-c 50
+-s "grass" 4
+-a "Agesilaus" "Xenophon" "1998" "1169.txt"
+-s "green" 4
+-s "sand" 4
+-s "road" 4
+-s "wind" 4
+-c 53
+-s "road" 4
+-a "Heroes and Hero Worship" "Thomas Carlyle" "1997" "1091.txt"
+-s "sand" 4
+-d 20
+-s "sun" 4
+-s "lake" 4
+-s "tree" 4
+-s "flower" 4
+-s "road" 4
+-s "fish" 4
+-s "road" 4
+-s "wave" 4
+-a "The Cavalry General" "Xenophon" "1998" "1172.txt"
+-c 50
+-s "wood" 4
+-s "road" 4
+-s "bird" 4
+-s "dream" 4
+-a "The Apology" "Xenophon" "1998" "1171.txt"
+-s "wood" 4
+-s "cat" 4
+-s "sound" 4
+-s "fish" 4
+-s "rain" 4
+-a "The Turmoil" "Booth Tarkington" "1997" "1098.txt"
+-a "The Life of John Sterling" "Thomas Carlyle" "1997" "1085.txt"
+-a "On Horsemanship" "Xenophon" "1998" "1176.txt"
+-s "wood" 4
+-s "book" 4
+-s "lake" 4
+-s "wind" 4
+-s "lake" 4
+-c 50
+-s "blue" 4
+-s "sun" 4
+-s "book" 4
+-s "cat" 4
+-s "moon" 4
+-s "rain" 4
+-s "light" 4
+-a "Hiero" "Xenophon" "1998" "1175.txt"
+-s "apple" 4
+-s "book" 4
+-a "The Man Against the Sky" "Edwin Arlington Robinson" "2008" "1035.txt"
+-s "stone" 4
+-s "run" 4
+-s "rain" 4
+-s "wave" 4
+-s "sky" 4
+-a "On Revenues" "Xenophon" "2008" "1179.txt"
+-s "snow" 4
+-s "fire" 4
+-a "The Polity of the Athenians and the Lacedaemonians" "Xenophon" "1998" "1178.txt"
+-s "sound" 4
+-s "blue" 4
+-a "Missionary Travels and Researches in South Africa" "David Livingstone" "2006" "1039.txt"
+-a "The Lone Star Ranger" "Zane Grey" "1997" "1027.txt"
+-s "fire" 4
+-c 64
+-s "snow" 4
+-s "song" 4
+-s "run" 4
+-a "Dope" "Sax Rohmer" "1998" "1182.txt"
+-a "The Symposium" "Xenophon" "1998" "1181.txt"
+-s "star" 4
+-s "wind" 4
+-s "earth" 4
+-s "rain" 4
+-s "tree" 4
+-s "rain" 4
+-a "The Night-Born" "Jack London" "1997" "1029.txt"
+-s "sand" 4
+-s "fire" 4
+-s "sand" 4
+-s "wind" 4
+-s "snow" 4
+-s "dream" 4
+-s "river" 4
+-s "hill" 4
+-s "dream" 4
+-s "stone" 4
+-s "green" 4
+-s "fish" 4
+-c 68
+-a "Poems" "Alice Meynell" "2005" "1186.txt"
+-s "wave" 4
+-s "sand" 4
+-s "ocean" 4
+-s "dog" 4
+-s "fire" 4
+-a "History of the Conflict Between Religion and Science" "John William Draper" "1998" "1185.txt"
+-s "cloud" 4
+-s "leaf" 4
+-s "dream" 4
+-s "song" 4
+-s "blue" 4
+-c 69
+-a "Moon-Face and Other Stories" "Jack London" "1997" "1089.txt"
+-s "lake" 4
+-s "wood" 4
+-s "rain" 4
+-a "Typhoon" "Joseph Conrad" "2006" "1142.txt"
+-s "wind" 4
+-s "snow" 4
+-s "tree" 4
+-s "river" 4
+-s "song" 4
+-a "The Jolly Corner" "Henry James" "2005" "1190.txt"
+-s "ocean" 4
+-s "ocean" 4
+-a "The Message" "Honore de Balzac" "1998" "1189.txt"
+-s "ocean" 4
+-s "apple" 4
+-s "cat" 4
+-s "path" 4
+-s "wood" 4
+-c 69
+-s "ocean" 4
+-s "dog" 4
+-s "book" 4
+-c 69
+-s "stone" 4
+-s "water" 4
+-s "run" 4
+-s "water" 4
+-s "run" 4
+-s "ocean" 4
+-s "wind" 4
+-s "light" 4
+-s "wood" 4
+-s "moon" 4
+-s "seed" 4
+-s "bird" 4
+-s "rock" 4
+-s "book" 4
+-s "path" 4
+-s "tree" 4
+-s "hill" 4
+-s "wood" 4
+-s "blue" 4
+-s "wood" 4
+-s "leaf" 4
+-s "rain" 4
+-s "wood" 4
+-s "run" 4
+-s "seed" 4
+-s "wave" 4
+-s "run" 4
+-s "moon" 4
+-s "rain" 4
+-s "cat" 4
+-c 75
+-s "star" 4
+-s "stone" 4
+-s "stone" 4
+-a "Journal of A Voyage to Lisbon" "Henry Fielding" "1997" "1146.txt"
+-s "hill" 4
+-a "Glasses" "Henry James" "2005" "1195.txt"
+-s "water" 4
+-a "Shakespeare's Sonnets" "William Shakespeare" "1997" "1041.txt"
+-s "earth" 4
+-s "moon" 4
+-a "As You Like It" "William Shakespeare" "1997" "1121.txt"
+-s "sky" 4
+-a "Martin Eden" "Jack London" "2004" "1056.txt"
+-d 18
+-s "light" 4
+-s "moon" 4
+-c 81
+-a "Through the Looking-Glass" "Charles Dodgson" "1991" "12.txt"
+-d 2
+-c 82
+-a "Robbery Under Arms" "Thomas Alexander Browne" "2008" "1198.txt"
+-s "light" 4
+-s "earth" 4
+-s "water" 4
+-c 80
+-s "green" 4
+-s "fire" 4
+-c 79
+-s "stone" 4
+-s "stone" 4
+-s "ocean" 4
+-s "dream" 4
+-s "tree" 4
+-a "Myths and Myth-Makers" "John Fiske" "1997" "1061.txt"
+-c 80
+-s "stone" 4
+-s "wind" 4
+-s "wind" 4
+-s "run" 4
+-s "light" 4
+-s "seed" 4
+-s "ocean" 4
+-a "Vanished Arizona" "Martha Summerhayes" "1997" "1049.txt"
+-s "dog" 4
+-s "fire" 4
+-s "path" 4
+-d 21
+-s "leaf" 4
+-d 16
+-s "moon" 4
+-s "cat" 4
+-s "stone" 4
+-s "book" 4
+-s "rain" 4
+-s "path" 4
+-s "river" 4
+-s "flower" 4
+-d 24
+-s "star" 4
+-s "rain" 4
+-s "seed" 4
+-a "Cabin Fever" "B. M. Bower" "1998" "1204.txt"
+-s "sound" 4
+-s "book" 4
+-s "cloud" 4
+-s "dog" 4
+-s "lake" 4
+-s "lake" 4
+-s "tree" 4
+-s "hill" 4
+-s "seed" 4
+-s "song" 4
+-s "light" 4
+-s "fish" 4
+-d 23
+-s "green" 4
+-s "dog" 4
+-s "run" 4
+-s "book" 4
+-s "flower" 4
+-s "dream" 4
+-c 84
+-s "hill" 4
+-s "lake" 4
+-s "bird" 4
+-s "wind" 4
+-s "wind" 4
+-s "cloud" 4
+-s "sky" 4
+-c 79
+-s "green" 4
+-s "star" 4
+-d 1
+-a "Dolly Dialogues" "Anthony Hope" "1998" "1203.txt"
+-s "wave" 4
+-s "song" 4
+-s "fire" 4
+-s "grass" 4
+-s "blue" 4
+-a "The Raven" "Edgar Allan Poe" "2010" "1065.txt"
+-s "moon" 4
+-s "song" 4
+-c 84
+-s "sand" 4
+-a "Nada the Lily" "H. Rider Haggard" "2007" "1207.txt"
+-s "dog" 4
+-s "fire" 4
+-s "run" 4
+-s "lake" 4
+-s "wood" 4
+-d 13
+-s "path" 4
+-s "cloud" 4
+-a "United States Census Figures back to 1630" "U.S. Census of Population and Housing" "2008" "115.txt"
+-s "hill" 4
+-s "leaf" 4
+-s "snow" 4
+-s "cloud" 4
+-s "apple" 4
+-s "road" 4
+-c 87
+-a "Franklin Delano Roosevelt's First Inaugural Address" "Franklin Delano Roosevelt" "2008" "104.txt"
+-s "bird" 4
+-s "path" 4
+-a "Personal Memoirs of U. S. Grant, Volume Two" "Ulysses S. Grant" "2004" "1068.txt"
+-c 92
+-a "Kwaidan: Stories and Studies of Strange Things" "Lafcadio Hearn" "1998" "1210.txt"
+-s "moon" 4
+-d 29
+-a "Northanger Abbey" "Jane Austen" "1994" "121.txt"
+-s "snow" 4
+-a "The New Machiavelli" "Herbert George Wells" "1997" "1047.txt"
+-s "sun" 4
+-s "water" 4
+-s "ocean" 4
+-s "fish" 4
+-a "The Mirror of Kong Ho" "Ernest Bramah" "1997" "1077.txt"
+-s "seed" 4
+-d 30
+-s "book" 4
+-s "fish" 4
+-c 95
+-s "snow" 4
+-s "wave" 4
+-s "song" 4
+-a "The Street of Seven Stars" "Mary Roberts Rinehart" "1998" "1214.txt"
+-s "wood" 4
+-s "rock" 4
+-s "sand" 4
+-s "sky" 4
+-s "dream" 4
+-s "run" 4
+-s "moon" 4
+-s "book" 4
+-s "green" 4
+-s "earth" 4
+-s "road" 4
+-a "The Man that Corrupted Hadleyburg" "Mark Twain" "2005" "1213.txt"
+-s "wind" 4
+-s "fire" 4
+-s "cat" 4
+-d 31
+-s "apple" 4
+-s "seed" 4
+-a "The Masque of the Red Death" "Edgar Allan Poe" "2010" "1064.txt"
+-s "earth" 4
+-s "wood" 4
+-s "stone" 4
+-a "The Economist" "Xenophon" "1998" "1173.txt"
+-s "stone" 4
+-s "blue" 4
+-a "The Adventures of Jimmie Dale" "Frank L. Packard" "2006" "1218.txt"
+-s "book" 4
+-a "Penelope's Experiences in Scotland" "Kate Douglas Wiggin" "1998" "1217.txt"
+-a "A Strange Disappearance" "Anna Katharine Green" "1998" "1167.txt"
+-s "tree" 4
+-s "flower" 4
+-s "seed" 4
+-s "road" 4
+-a "The Memorabilia" "Xenophon" "1998" "1177.txt"
+-c 102
+-s "dream" 4
+-s "sand" 4
+-s "dog" 4
+-s "song" 4
+-s "moon" 4
+-s "dream" 4
+-s "rain" 4
+-s "sun" 4
+-s "water" 4
+-s "song" 4
+-s "earth" 4
+-c 102
+-s "seed" 4
+-s "blue" 4
+-s "wave" 4
+-s "sound" 4
+-a "Cobb's Anatomy" "Irvin S. Cobb" "1998" "1222.txt"
+-s "cloud" 4
+-s "seed" 4
+-c 105
+-s "sky" 4
+-s "lake" 4
+-s "rock" 4
+-s "green" 4
+-s "moon" 4
+-s "path" 4
+-s "stone" 4
+-s "river" 4
+-a "The Atheist's Mass" "Honore de Balzac" "1998" "1220.txt"
+-d 27
+-s "light" 4
+-s "cat" 4
+-s "green" 4
+-s "stone" 4
+-s "song" 4
+-s "sun" 4
+-a "Anabasis" "Xenophon" "1998" "1170.txt"
+-s "blue" 4
+-s "sky" 4
+-s "bird" 4
+-s "cat" 4
+-s "cloud" 4
+-s "rain" 4
+-s "leaf" 4
+-s "bird" 4
+-a "The Sportsman" "Xenophon" "1998" "1180.txt"
+-s "cloud" 4
+-d 22
+-s "dog" 4
+-s "sun" 4
+-s "sun" 4
+-s "light" 4
+-s "blue" 4
+-s "sun" 4
+-a "On the Origin of Species" "Charles Darwin" "1998" "1228.txt"
+-d 17
+-s "road" 4
+-c 107
+-s "star" 4
+-s "stone" 4
+-s "book" 4
+-s "run" 4
+-d 32
+-s "star" 4
+-s "book" 4
+-s "rock" 4
+-s "leaf" 4
+-a "The Expression of Emotion in Man and Animals" "Charles Darwin" "1998" "1227.txt"
+-s "lake" 4
+-s "light" 4
+-c 110
+-s "path" 4
+-s "rain" 4
+-s "earth" 4
+-s "bird" 4
+-s "seed" 4
+-s "wind" 4
+-s "snow" 4
+-c 110
+-s "wave" 4
+-s "apple" 4
+-s "rock" 4
+-s "song" 4
+-a "Hellenica" "Xenophon" "1998" "1174.txt"
+-d 33
+-s "snow" 4
+-s "cloud" 4
+-s "blue" 4
+-s "cat" 4
+-s "path" 4
+-s "sky" 4
+-s "wood" 4
+-a "Tess of the d'Urbervilles" "Thomas Hardy" "1994" "110.txt"
+-s "book" 4
+-s "fire" 4
+-s "earth" 4
+-s "bird" 4
+-s "leaf" 4
+-s "sun" 4
+-s "rock" 4
+-s "moon" 4
+-s "earth" 4
+-d 36
+-a "The Prince" "Nicolo Machiavelli" "2006" "1232.txt"
+-s "rain" 4
+-s "fire" 4
+-s "run" 4
+-s "sky" 4
+-s "bird" 4
+-s "stone" 4
+-a "On the Track" "Henry Lawson" "1998" "1231.txt"
+-s "river" 4
+-a "Hell" "Dante Alighieri" "2004" "1005.txt"
+-s "earth" 4
+-s "cat" 4
+-s "bird" 4
+-s "rain" 4
+-s "fire" 4
+-s "wave" 4
+-s "star" 4
+-s "cat" 4
+-d 39
+-a "Persuasion" "Jane Austen" "2008" "105.txt"
+-a "Hacker Crackdown" "Bruce Sterling" "1994" "101.txt"
+-a "Tales of Unrest" "Joseph Conrad" "2006" "1202.txt"
+-s "fish" 4
+-s "bird" 4
+-s "wood" 4
+-a "The Lair of the White Worm" "Bram Stoker" "2005" "1188.txt"
+-s "stone" 4
+-s "path" 4
+-s "lake" 4
+-s "green" 4
+-s "wind" 4
+-c 119
+-a "The Pupil" "Henry James" "2010" "1032.txt"
+-s "river" 4
+-a "The Double-Dealer" "William Congreve" "2008" "1191.txt"
+-d 5
+-s "star" 4
+-s "song" 4
+-s "leaf" 4
+-s "lake" 4
+-a "The Oregon Trail" "Francis Parkman, Jr." "2006" "1015.txt"
+-s "river" 4
+-s "snow" 4
+-s "cat" 4
+-s "cloud" 4
+-s "fish" 4
+-s "ocean" 4
+-s "rain" 4
+-s "flower" 4
+-c 122
+-s "blue" 4
+-a "Big Dummy's Guide to the Internet" "Electronic Frontier Foundation" "1994" "118.txt"
+-s "moon" 4
+-s "path" 4
+-s "sound" 4
+-s "snow" 4
+-s "river" 4
+-s "snow" 4
+-s "star" 4
+-d 37
+-s "lake" 4
+-s "rock" 4
+-s "blue" 4
+-s "tree" 4
+-s "apple" 4
+-d 34
+-s "wind" 4
+-s "road" 4
+-s "rock" 4
+-s "dream" 4
+-s "stone" 4
+-s "water" 4
+-s "flower" 4
+-s "green" 4
+-s "road" 4
+-c 120
+-s "green" 4
+-d 40
+-s "song" 4
+-s "snow" 4
+-a "Joe Wilson and His Mates" "Henry Lawson" "1997" "1036.txt"
+-s "bird" 4
+-s "grass" 4
+-s "blue" 4
+-a "Return of the Native" "Thomas Hardy" "2006" "122.txt"
+-s "water" 4
+-s "tree" 4
+-s "path" 4
+-a "The Pool in the Desert" "Sara Jeanette Duncan" "1998" "1168.txt"
+-d 25
+-a "War of the Classes" "Jack London" "2007" "1187.txt"
+-s "fish" 4
+-s "book" 4
+-s "star" 4
+-s "tree" 4
+-s "cat" 4
+-s "leaf" 4
+-s "sun" 4
+-d 6
+-s "leaf" 4
+-d 41
+-s "star" 4
+-s "road" 4
+-a "The Return of Dr. Fu-Manchu" "Sax Rohmer" "1998" "1183.txt"
+-a "The Lure of the Dim Trails" "B. M. Bower" "1997" "1014.txt"
+-s "road" 4
+-s "water" 4
+-d 46
+-s "lake" 4
+-c 126
+-s "snow" 4
+-c 127
+-s "apple" 4
+-s "rock" 4
+-s "water" 4
+-s "snow" 4
+-d 45
+-s "seed" 4
+-d 48
+-s "hill" 4
+-d 49
+-a "A Selection From The Lyrical Poems Of Robert Herrick" "Robert Herrick" "1998" "1211.txt"
+-s "ocean" 4
+-s "grass" 4
+-s "snow" 4
+-d 47
+-s "earth" 4
+-s "sky" 4
+-s "rain" 4
+-s "hill" 4
+-s "earth" 4
+-s "water" 4
+-a "The Divine Comedy of Dante:  Paradise" "Dante Alighieri" "2004" "1007.txt"
+-c 127
+-s "wave" 4
+-s "apple" 4
+-s "lake" 4
+-s "lake" 4
+-s "leaf" 4
+-a "Flying U Ranch" "B. M. Bower" "1998" "1206.txt"
+-s "wind" 4
+-s "road" 4
+-s "water" 4
+-s "sky" 4
+-c 127
+-a "History of the Conquest of Peru" "William Hickling Prescott" "1998" "1209.txt"
+-s "blue" 4
+-s "road" 4
+-s "sound" 4
+-a "God The Invisible King" "Herbert George Wells" "2006" "1046.txt"
+-s "seed" 4
+-s "fish" 4
+-s "moon" 4
+-a "Penrod and Sam" "Booth Tarkington" "1998" "1158.txt"
+-s "path" 4
+-d 19
+-s "hill" 4
+-s "flower" 4
+-a "South Sea Tales" "Jack London" "1998" "1208.txt"
+-s "path" 4
+-a "Love And Freindship And Other Early Works" "Jane Austen" "1998" "1212.txt"
+-c 134
+-s "water" 4
+-s "dream" 4
+-s "fire" 4
+-s "dog" 4
+-s "bird" 4
+-s "wind" 4
+-a "Sartor Resartus" "Thomas Carlyle" "1997" "1051.txt"
+-s "stone" 4
+-s "rock" 4
+-s "earth" 4
+-s "wind" 4
+-s "dog" 4
+-s "sun" 4
+-s "star" 4
+-s "apple" 4
+-s "cloud" 4
+-s "wave" 4
+-s "wave" 4
+-s "wave" 4
+-s "rain" 4
+-s "wave" 4
+-s "river" 4
+-s "rain" 4
+-s "dog" 4
+-a "The Congo and Other Poems" "Vachel Lindsay" "1997" "1021.txt"
+-s "run" 4
+-s "blue" 4
+-s "sun" 4
+-s "rain" 4
+-s "sky" 4
+-s "leaf" 4
+-s "fire" 4
+-s "fire" 4
+-s "snow" 4
+-s "wood" 4
+-s "flower" 4
+-s "ocean" 4
+-s "flower" 4
+-s "sound" 4
+-s "ocean" 4
+-c 139
+-s "sun" 4
+-s "hill" 4
+-s "wood" 4
+-s "flower" 4
+-s "rain" 4
+-s "apple" 4
+-s "leaf" 4
+-s "tree" 4
+-c 139
+-s "tree" 4
+-d 52
+-a "Fisherman's Luck" "Henry van Dyke" "1997" "1139.txt"
+-s "earth" 4
+-a "Taras Bulba and Other Tales" "Nikolai Vasilievich Gogol" "1998" "1197.txt"
+-s "dream" 4
+-s "flower" 4
+-s "lake" 4
+-a "The Tragedy of Pudd'nhead Wilson" "Mark Twain" "1994" "102.txt"
+-s "sound" 4
+-s "snow" 4
+-s "flower" 4
+-s "fire" 4
+-s "rock" 4
+-a "Nana, The Miller's Daughter, Captain Burle, Death of Olivier Becaille" "Emile Zola" "2006" "1069.txt"
+-s "leaf" 4
+-a "The Adventures of Louis de Rougemont" "Louis de Rougemont" "2007" "1194.txt"
+-s "song" 4
+-s "dream" 4
+-s "tree" 4
+-s "lake" 4
+-s "sky" 4
+-s "sun" 4
+-s "ocean" 4
+-s "tree" 4
+-s "rain" 4
+-d 43
+-c 141
+-s "star" 4
+-s "water" 4
+-s "moon" 4
+-d 53
+-s "stone" 4
+-s "earth" 4
+-s "stone" 4
+-s "hill" 4
+-s "light" 4
+-s "star" 4
+-s "book" 4
+-a "Step by Step" "The American Tract Society" "1997" "1052.txt"
+-a "Romeo and Juliet" "William Shakespeare" "1997" "1112.txt"
+-s "dog" 4
+-s "run" 4
+-s "rock" 4
+-a "Gargantua and Pantagruel, Complete." "Francois Rabelais" "2004" "1200.txt"
+-d 56
+-a "At the Earth's Core" "Edgar Rice Burroughs" "2008" "123.txt"
+-s "tree" 4
+-s "water" 4
+-s "sky" 4
+-s "seed" 4
+-s "tree" 4
+-s "rain" 4
+-s "rock" 4
+-a "Pierre Grassou" "Honore de Balzac" "1998" "1230.txt"
+-s "grass" 4
+-s "wind" 4
+-s "wind" 4
+-c 147
+-a "An Essay on Comedy" "George Meredith" "2005" "1219.txt"
+-s "dream" 4
+-s "run" 4
+-s "star" 4
+-d 28
+-s "sand" 4
+-s "rain" 4
+-s "sky" 4
+-s "book" 4
+-s "apple" 4
+-a "The Elixir of Life" "Honore de Balzac" "1998" "1215.txt"
+-s "road" 4
+-s "apple" 4
+-s "flower" 4
+-a "The Jacket (The Star-Rover)" "Jack London" "2005" "1162.txt"
+-s "grass" 4
+-s "song" 4
+-s "sound" 4
+-s "dog" 4
+-a "Bleak House" "Charles Dickens" "1997" "1023.txt"
+-a "The Colour of Life" "Alice Meynell" "2005" "1205.txt"
+-a "The Story of the Volsungs, (Volsunga Saga)" "Unknown" "1997" "1152.txt"
+-s "snow" 4
+-a "Rose O' the River" "Kate Douglas Wiggin" "2006" "1033.txt"
+-s "moon" 4
+-s "wave" 4
+-c 155
+-s "grass" 4
+-s "star" 4
+-s "seed" 4
+-s "wind" 4
+-s "wave" 4
+-s "leaf" 4
+-a "Decline of Science in England" "Charles Babbage" "1998" "1216.txt"
+-a "Fire-Tongue" "Sax Rohmer" "1998" "1159.txt"
+-d 57
+-a "The Story of Evolution" "Joseph McCabe" "1997" "1043.txt"
+-s "lake" 4
+-s "cloud" 4
+-s "ocean" 4
+-s "star" 4
+-s "wind" 4
+-a "The Return of Sherlock Holmes" "Arthur Conan Doyle" "2007" "108.txt"
+-s "flower" 4
+-d 26
+-s "fish" 4
+-a "The World Set Free" "Herbert George Wells" "2006" "1059.txt"
+-s "hill" 4
+-a "The Purse" "Honore de Balzac" "1998" "1196.txt"
+-a "Poems" "Currer, Ellis,Acton Bell" "1997" "1019.txt"
+-s "song" 4
+-a "Faraday As A Discoverer" "John Tyndall" "1998" "1225.txt"
+-s "cloud" 4
+-d 35
+-a "Ursula" "Honore de Balzac" "1997" "1223.txt"
+-s "water" 4
+-s "water" 4
+-s "hill" 4
+-s "wind" 4
+-s "moon" 4
+-s "river" 4
+-s "book" 4
+-s "wood" 4
+-s "green" 4
+-s "water" 4

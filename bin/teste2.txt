@@ -1,0 +1,86 @@
+-a "The Wallet of Kai Lung" "Ernest Bramah" "1997" "1076.txt"
+-a "Far from the Madding Crowd" "Thomas Hardy" "1994" "107.txt"
+-a "Sword Blades and Poppy Seed" "Amy Lowell" "1997" "1020.txt"
+-a "The Life and Opinions of Tristram Shandy, Gentleman" "Laurence Sterne" "1997" "1079.txt"
+-a "The Scouts of the Valley" "Joseph A. Altsheler" "1997" "1078.txt"
+-a "The Wrecker" "Robert Louis Stevenson,Lloyd Osbourne" "2006" "1024.txt"
+-a "The Arrow of Gold" "Joseph Conrad" "2009" "1083.txt"
+-a "A Modest Proposal" "Jonathan Swift" "1997" "1080.txt"
+-a "Around the World in 80 Days" "Jules Verne" "2008" "103.txt"
+-a "Rolf In The Woods" "Ernest Thompson Seton" "1997" "1088.txt"
+-a "Baartock" "Lewis Roth" "1997" "1087.txt"
+-a "Poems" "Wilfred Owen" "1997" "1034.txt"
+-a "The Bickerstaff-Partridge Papers" "Jonathan Swift" "1997" "1090.txt"
+-a "Renascence and Other Poems" "Edna St. Vincent Millay" "2008" "109.txt"
+-a "The Life of John Bunyan" "Edmund Venables" "2005" "1037.txt"
+-a "Mrs. Warren's Profession" "George Bernard Shaw" "2006" "1097.txt"
+-a "The Beast in the Jungle" "Henry James" "2005" "1093.txt"
+-a "The Three Taverns" "Edwin Arlington Robinson" "1997" "1040.txt"
+-c 1
+-c 2
+-c 3
+-a "Alice's Adventures in Wonderland" "Lewis Carroll" "1994" "11.txt"
+-a "The Riverman" "Stewart Edward White" "1997" "1099.txt"
+-s "sea" 4
+-c 4
+-s "brown" 4
+-l 5 "John"
+-s "bye" 4
+-a "Venus and Adonis" "William Shakespeare" "1997" "1045.txt"
+-a "Freckles" "Gene Stratton-Porter" "2006" "111.txt"
+-s "hi" 4
+-c 6
+-l 7 "sun"
+-s "fork" 4
+-a "King Richard III" "William Shakespeare" "1997" "1103.txt"
+-s "yellow" 4
+-l "blue" 8
+-a "The Ruling Passion" "Henry van Dyke" "1997" "1048.txt"
+-a "Violists" "Richard McGowan" "1994" "112.txt"
+-s "Miguel" 4
+-s "Santos" 4
+-c 10
+-c 11
+-s "we" 4
+-a "Much Ado About Nothing" "William Shakespeare" "1997" "1118.txt"
+-a "Dark Lady of the Sonnets" "George Bernard Shaw" "2008" "1050.txt"
+-a "The Research Magnificent" "H. G. Wells" "1997" "1138.txt"
+-l 12 "pen"
+-c 13
+-d 1
+-d 2
+-s "system" 10
+-d 2
+-s "integral" 6
+-l 14 "pencil"
+-d 3
+-d 4
+-a "The Secret Garden" "Frances Hodgson Burnett" "2008" "113.txt"
+-d 5
+-l 15 "artist"
+-s "pure" 4
+-d 6
+-s "rojoes" 12
+-s "francesinha" 4
+-d 7
+-s "cabidela" 4
+-s "canja" 4
+-a "Within the Tides" "Joseph Conrad" "2011" "1053.txt"
+-a "Latter-Day Pamphlets" "Thomas Carlyle" "1997" "1140.txt"
+-d 8
+-s "cozido" 12
+-d 9
+-c 16
+-l 17 "cloud"
+-s "leitao" 24
+-s "fome" 12
+-l 18 "frangoGuia"
+-a "Tenniel Illustrations for Alice in Wonderland" "Sir John Tenniel" "2008" "114.txt"
+-d 10
+-c 19
+-s "morto" 12
+-s "carbonara" 12
+-s "feijoada" 24
+-s "rissotto" 12
+-a "Jungle Tales of Tarzan" "Edgar Rice Burroughs" "2008" "106.txt"
+-l 20 "fim"

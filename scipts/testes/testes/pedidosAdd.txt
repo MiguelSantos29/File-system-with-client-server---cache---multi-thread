@@ -1,0 +1,966 @@
+-a "The Wallet of Kai Lung" "Ernest Bramah" "1997" "1076.txt"
+-a "Far from the Madding Crowd" "Thomas Hardy" "1994" "107.txt"
+-a "Sword Blades and Poppy Seed" "Amy Lowell" "1997" "1020.txt"
+-a "The Life and Opinions of Tristram Shandy, Gentleman" "Laurence Sterne" "1997" "1079.txt"
+-a "The Scouts of the Valley" "Joseph A. Altsheler" "1997" "1078.txt"
+-a "The Wrecker" "Robert Louis Stevenson,Lloyd Osbourne" "2006" "1024.txt"
+-a "The Arrow of Gold" "Joseph Conrad" "2009" "1083.txt"
+-a "The Lure of the Dim Trails" "B. M. Bower" "1997" "1014.txt"
+-a "The First Men In The Moon" "H. G. Wells" "2004" "1013.txt"
+-a "The Pupil" "Henry James" "2010" "1032.txt"
+-a "Moon-Face and Other Stories" "Jack London" "1997" "1089.txt"
+-a "Rolf In The Woods" "Ernest Thompson Seton" "1997" "1088.txt"
+-a "The Man Against the Sky" "Edwin Arlington Robinson" "2008" "1035.txt"
+-a "The Congo and Other Poems" "Vachel Lindsay" "1997" "1021.txt"
+-a "The Beast in the Jungle" "Henry James" "2005" "1093.txt"
+-s "be" 4
+-a "Heroes and Hero Worship" "Thomas Carlyle" "1997" "1091.txt"
+-s "Hello" 4
+-c 16
+-s "to" 4
+-a "Franklin Delano Roosevelt's First Inaugural Address" "Franklin Delano Roosevelt" "2008" "104.txt"
+-s "are" 4
+-a "The Riverman" "Stewart Edward White" "1997" "1099.txt"
+-l 17 "perfect"
+-a "The Turmoil" "Booth Tarkington" "1997" "1098.txt"
+-c 17
+-c 16
+-d 1
+-a "The Story of Evolution" "Joseph McCabe" "1997" "1043.txt"
+-c 18
+-c 16
+-c 15
+-c 17
+-d 3
+-c 6
+-d 6
+-a "Rose O' the River" "Kate Douglas Wiggin" "2006" "1033.txt"
+-s "perfect" 4
+-l 150 "make"
+-c 15
+-c 19
+-l 100 "So"
+-c 17
+-c 16
+-c 18
+-c 13
+-d 3
+-c 19
+-d 4
+-s "cake" 4
+-l 19 "mission"
+-c 18
+-c 17
+-l 17 "shot"
+-c 19
+-c 16
+-d 5
+-l 16 "perfect"
+-l 18 "star"
+-c 15
+-d 6
+-c 19
+-s "make" 4
+-c 14
+-c 17
+-s "kill" 4
+-c 18
+-c 19
+-d 7
+-l 17 "perfect"
+-l 59 "be"
+-c 16
+-d 8
+-c 17
+-s "perfect" 4
+-c 18
+-c 19
+-c 17
+-l 18 "be"
+-c 19
+-d 9
+-c 10
+-l 10 "be"
+-d 10
+-d 2
+-c 18
+-s "to" 4
+-c 19
+-c 17
+-c 16
+-c 18
+-s "make" 4
+-c 16
+-c 19
+-l 16 "to"
+-l 19 "perfect"
+-c 19
+-l 16 "to"
+-l 17 "to"
+-d 5
+-d 8
+-d 6
+-c 15
+-l 15 "perfect"
+-d 7
+-c 16
+-l 17 "be"
+-c 17
+-l 17 "Alo"
+-d 7
+-c 19
+-c 18
+-d 2
+-c 18
+-c 18
+-c 19
+-c 17
+-d 3
+-c 15
+-c 16
+-c 17
+-l 17 "perfect"
+-c 18
+-c 19
+-c 18
+-c 16
+-l 16 "perfect"
+-d 4
+-s "make" 4
+-c 16
+-l 16 "make"
+-l 17 "to"
+-c 17
+-c 18
+-l 18 "make"
+-l 18 "make"
+-l 14 "are"
+-d 1
+-c 14
+-d 2
+-c 15
+-c 16
+-l 16 "be"
+-c 150
+-c 50
+-c 150
+-l 150 "are"
+-l 0 "are"
+-l 250 "perfect"
+-c 50
+-c 150
+-c 100
+-l 0 "perfect"
+-l 250 "are"
+-l 0 "make"
+-c 50
+-s "are" 4
+-l 50 "perfect"
+-s "perfect" 4
+-l 0 "be"
+-c 150
+-c 0
+-l 100 "to"
+-s "be" 4
+-l 0 "be"
+-c 150
+-c 50
+-s "to" 4
+-s "be" 4
+-c 100
+-c 200
+-c 0
+-c 50
+-s "perfect" 4
+-l 0 "are"
+-c 200
+-d 0
+-s "to" 4
+-s "to" 4
+-l 0 "make"
+-c 200
+-c 150
+-s "are" 4
+-s "are" 4
+-l 0 "perfect"
+-c 0
+-l 100 "are"
+-c 150
+-c 250
+-l 250 "be"
+-c 200
+-l 200 "perfect"
+-c 200
+-d 0
+-l 250 "to"
+-c 0
+-l 250 "perfect"
+-c 250
+-d 0
+-s "are" 4
+-c 200
+-s "make" 4
+-c 250
+-d 0
+-s "be" 4
+-c 200
+-s "make" 4
+-d 0
+-d 50
+-s "perfect" 4
+-c 200
+-c 250
+-l 200 "perfect"
+-d 50
+-s "to" 4
+-c 200
+-c 150
+-l 200 "perfect"
+-d 50
+-s "perfect" 4
+-c 250
+-l 0 "make"
+-l 250 "perfect"
+-d 50
+-s "make" 4
+-c 150
+-l 100 "to"
+-s "to" 4
+-l 0 "perfect"
+-s "are" 4
+-c 250
+-l 200 "to"
+-s "to" 4
+-l 0 "make"
+-s "be" 4
+-c 250
+-s "be" 4
+-c 150
+-l 0 "perfect"
+-s "make" 4
+-c 250
+-s "be" 4
+-s "are" 4
+-l 50 "be"
+-s "make" 4
+-c 250
+-c 100
+-l 0 "are"
+-s "to" 4
+-s "make" 4
+-c 250
+-d 50
+-l 50 "to"
+-s "to" 4
+-s "be" 4
+-c 250
+-l 50 "be"
+-l 100 "are"
+-s "be" 4
+-c 0
+-c 150
+-l 150 "make"
+-l 150 "perfect"
+-s "make" 4
+-s "are" 4
+-c 250
+-l 250 "be"
+-a "Freckles" "Gene Stratton-Porter" "2006" "111.txt"
+-c 50
+-s "be" 4
+-s "be" 4
+-d 0
+-s "make" 4
+-l 200 "make"
+-s "make" 4
+-s "are" 4
+-c 150
+-s "perfect" 4
+-l 250 "make"
+-s "make" 4
+-s "be" 4
+-c 0
+-d 0
+-d 0
+-l 50 "are"
+-l 0 "perfect"
+-l 150 "to"
+-d 0
+-d 50
+-c 150
+-l 100 "are"
+-c 150
+-d 0
+-a "King Richard III" "William Shakespeare" "1997" "1103.txt"
+-a "The Ruling Passion" "Henry van Dyke" "1997" "1048.txt"
+-d 0
+-d 0
+-a "Violists" "Richard McGowan" "1994" "112.txt"
+-c 200
+-l 50 "are"
+-l 250 "are"
+-l 100 "be"
+-l 50 "make"
+-l 100 "perfect"
+-d 0
+-c 0
+-l 100 "to"
+-l 100 "perfect"
+-l 0 "perfect"
+-l 150 "make"
+-d 0
+-l 0 "be"
+-c 150
+-l 150 "make"
+-d 0
+-d 0
+-c 0
+-s "are" 4
+-s "are" 4
+-l 150 "are"
+-l 100 "to"
+-l 150 "are"
+-d 50
+-l 50 "make"
+-d 0
+-s "to" 4
+-c 150
+-c 50
+-a "Missionary Travels and Researches in South Africa" "David Livingstone" "2006" "1039.txt"
+-a "The Life of John Bunyan" "Edmund Venables" "2005" "1037.txt"
+-a "Sartor Resartus" "Thomas Carlyle" "1997" "1051.txt"
+-a "Fisherman's Luck" "Henry van Dyke" "1997" "1139.txt"
+-c 150
+-l 100 "perfect"
+-s "are" 4
+-l 150 "be"
+-c 50
+-d 50
+-d 0
+-d 50
+-c 200
+-c 200
+-d 0
+-c 200
+-l 200 "make"
+-d 50
+-l 150 "be"
+-s "perfect" 4
+-l 150 "to"
+-d 50
+-d 50
+-d 0
+-l 0 "to"
+-l 50 "are"
+-l 200 "be"
+-s "be" 4
+-l 150 "are"
+-d 50
+-c 50
+-s "to" 4
+-l 0 "perfect"
+-a "The Research Magnificent" "H. G. Wells" "1997" "1138.txt"
+-s "to" 4
+-l 200 "perfect"
+-c 50
+-c 50
+-s "make" 4
+-l 200 "are"
+-d 50
+-d 50
+-c 200
+-c 150
+-l 250 "be"
+-c 200
+-s "to" 4
+-c 0
+-c 0
+-a "Tess of the d'Urbervilles" "Thomas Hardy" "1994" "110.txt"
+-a "Bleak House" "Charles Dickens" "1997" "1023.txt"
+-c 0
+-s "make" 4
+-s "be" 4
+-s "be" 4
+-l 250 "make"
+-l 0 "to"
+-d 50
+-l 200 "to"
+-l 100 "be"
+-c 50
+-l 200 "perfect"
+-s "are" 4
+-c 0
+-c 0
+-c 100
+-a "Martin Eden" "Jack London" "2004" "1056.txt"
+-l 100 "to"
+-c 0
+-d 50
+-l 250 "make"
+-d 50
+-c 100
+-d 50
+-s "make" 4
+-c 0
+-s "make" 4
+-l 0 "are"
+-c 100
+-c 150
+-d 100
+-c 0
+-l 0 "perfect"
+-c 200
+-c 200
+-l 0 "be"
+-s "to" 4
+-c 250
+-c 100
+-l 200 "to"
+-l 0 "make"
+-c 150
+-d 50
+-c 150
+-d 50
+-c 200
+-a "God The Invisible King" "Herbert George Wells" "2006" "1046.txt"
+-l 50 "perfect"
+-c 250
+-s "be" 4
+-s "make" 4
+-l 0 "make"
+-c 250
+-l 200 "perfect"
+-d 0
+-l 100 "to"
+-c 100
+-c 150
+-c 100
+-c 200
+-l 50 "be"
+-s "perfect" 4
+-l 0 "perfect"
+-s "are" 4
+-c 50
+-c 150
+-c 100
+-c 150
+-l 50 "perfect"
+-l 150 "be"
+-c 100
+-c 50
+-c 0
+-s "are" 4
+-s "to" 4
+-d 50
+-a "Notes on Life and Letters" "Joseph Conrad" "2005" "1143.txt"
+-c 0
+-c 250
+-c 0
+-c 100
+-c 250
+-s "be" 4
+-c 200
+-l 0 "perfect"
+-c 250
+-l 100 "make"
+-s "be" 4
+-c 250
+-s "be" 4
+-c 0
+-s "perfect" 4
+-l 0 "to"
+-l 50 "perfect"
+-s "be" 4
+-l 0 "make"
+-c 0
+-l 250 "to"
+-l 200 "perfect"
+-l 100 "to"
+-s "perfect" 4
+-l 50 "are"
+-c 0
+-s "perfect" 4
+-s "perfect" 4
+-c 50
+-c 0
+-a "Typhoon" "Joseph Conrad" "2006" "1142.txt"
+-a "First Gutenberg Collection of Edgar Allan Poe" "Edgar Allan Poe" "1997" "1062.txt"
+-c 50
+-c 100
+-c 50
+-c 200
+-d 0
+-l 150 "to"
+-c 0
+-l 50 "make"
+-c 50
+-s "make" 4
+-l 100 "be"
+-l 100 "are"
+-c 0
+-l 50 "be"
+-s "be" 4
+-s "are" 4
+-c 150
+-l 50 "are"
+-c 150
+-l 100 "make"
+-d 50
+-l 100 "be"
+-s "are" 4
+-s "to" 4
+-l 100 "are"
+-l 0 "be"
+-s "to" 4
+-s "to" 4
+-c 100
+-l 100 "are"
+-a "From This World to the Next" "Henry Fielding" "2008" "1147.txt"
+-a "Dark Lady of the Sonnets" "George Bernard Shaw" "2008" "1050.txt"
+-c 250
+-d 50
+-l 100 "make"
+-s "perfect" 4
+-c 100
+-c 50
+-d 0
+-l 100 "perfect"
+-c 250
+-l 100 "be"
+-c 150
+-l 100 "to"
+-d 0
+-s "are" 4
+-l 250 "make"
+-s "to" 4
+-c 100
+-s "be" 4
+-d 50
+-l 150 "are"
+-c 250
+-s "be" 4
+-c 100
+-s "be" 4
+-c 200
+-c 0
+-c 50
+-l 150 "are"
+-l 100 "be"
+-l 0 "perfect"
+-a "Persuasion" "Jane Austen" "2008" "105.txt"
+-a "Personal Memoirs of U. S. Grant, Volume One" "Ulysses S. Grant" "2004" "1067.txt"
+-c 150
+-c 250
+-c 250
+-l 50 "make"
+-c 0
+-c 150
+-c 250
+-c 100
+-l 150 "are"
+-l 100 "to"
+-d 0
+-l 150 "be"
+-d 0
+-l 50 "make"
+-c 0
+-d 50
+-l 250 "are"
+-c 0
+-l 200 "perfect"
+-s "are" 4
+-l 250 "perfect"
+-s "make" 4
+-l 150 "make"
+-c 200
+-l 150 "are"
+-l 150 "be"
+-s "are" 4
+-c 150
+-l 150 "to"
+-s "perfect" 4
+-a "The Nibelungenlied" "Unknown" "1997" "1151.txt"
+-c 100
+-l 0 "be"
+-c 50
+-c 250
+-c 300
+-c 250
+-l 50 "are"
+-l 100 "make"
+-c 150
+-s "perfect" 4
+-d 50
+-l 200 "be"
+-l 50 "are"
+-s "be" 4
+-c 200
+-d 50
+-l 0 "are"
+-l 250 "be"
+-c 250
+-s "to" 4
+-d 0
+-l 100 "are"
+-l 200 "are"
+-l 200 "to"
+-l 50 "are"
+-c 250
+-c 50
+-s "be" 4
+-d 50
+-s "are" 4
+-a "The Danish History, Books I-IX" "Saxo Grammaticus" "2006" "1150.txt"
+-l 200 "to"
+-l 200 "be"
+-l 0 "perfect"
+-l 200 "are"
+-l 200 "are"
+-c 0
+-l 50 "perfect"
+-l 200 "make"
+-l 150 "be"
+-l 200 "are"
+-c 0
+-c 0
+-l 150 "to"
+-c 50
+-s "to" 4
+-c 150
+-c 50
+-l 200 "perfect"
+-s "be" 4
+-l 200 "perfect"
+-s "are" 4
+-l 50 "are"
+-c 200
+-l 100 "be"
+-s "make" 4
+-c 250
+-l 100 "make"
+-l 50 "be"
+-s "make" 4
+-l 250 "perfect"
+-a "The World Set Free" "Herbert George Wells" "2006" "1059.txt"
+-c 100
+-c 0
+-c 200
+-l 250 "are"
+-s "make" 4
+-c 200
+-c 50
+-s "perfect" 4
+-l 0 "be"
+-l 200 "make"
+-c 250
+-l 150 "make"
+-s "perfect" 4
+-l 250 "perfect"
+-c 200
+-l 150 "are"
+-l 250 "make"
+-l 250 "perfect"
+-c 250
+-l 50 "be"
+-l 250 "are"
+-c 250
+-l 250 "perfect"
+-l 250 "perfect"
+-l 50 "to"
+-l 250 "perfect"
+-l 150 "to"
+-c 0
+-c 50
+-l 250 "to"
+-a "The King James Bible" "Unknown" "2011" "10.txt"
+-a "Penrod and Sam" "Booth Tarkington" "1998" "1158.txt"
+-d 50
+-l 250 "to"
+-l 100 "perfect"
+-l 200 "are"
+-l 250 "be"
+-l 250 "are"
+-l 50 "to"
+-l 100 "be"
+-c 50
+-l 250 "are"
+-d 50
+-l 250 "are"
+-l 100 "to"
+-l 100 "to"
+-l 200 "are"
+-c 150
+-l 0 "are"
+-l 250 "be"
+-d 50
+-s "to" 4
+-c 0
+-c 250
+-s "make" 4
+-s "be" 4
+-c 200
+-l 200 "make"
+-d 50
+-l 200 "to"
+-s "are" 4
+-c 200
+-a "Damaged Goods" "Upton Sinclair" "1998" "1157.txt"
+-a "The Divine Comedy of Dante:  Purgatory" "Dante Alighieri" "2004" "1006.txt"
+-l 200 "are"
+-l 0 "to"
+-l 100 "be"
+-l 50 "are"
+-l 200 "make"
+-s "make" 4
+-l 150 "are"
+-l 150 "make"
+-l 50 "are"
+-l 200 "perfect"
+-c 100
+-c 0
+-c 50
+-c 100
+-c 50
+-l 200 "to"
+-a "Hellenica" "Xenophon" "1998" "1174.txt"
+-c 150
+-d 0
+-l 200 "be"
+-s "are" 4
+-l 200 "be"
+-l 0 "are"
+-s "perfect" 4
+-c 200
+-l 250 "to"
+-c 100
+-s "make" 4
+-c 150
+-d 50
+-c 100
+-a "The Masque of the Red Death" "Edgar Allan Poe" "2010" "1064.txt"
+-a "The Jacket (The Star-Rover)" "Jack London" "2005" "1162.txt"
+-l 100 "be"
+-s "be" 4
+-c 100
+-d 0
+-l 50 "make"
+-s "to" 4
+-l 250 "make"
+-s "make" 4
+-d 0
+-d 50
+-l 50 "to"
+-c 150
+-c 50
+-c 250
+-l 100 "perfect"
+-a "Poems" "Currer, Ellis,Acton Bell" "1997" "1019.txt"
+-a "Much Ado About Nothing" "William Shakespeare" "1997" "1118.txt"
+-l 150 "perfect"
+-c 150
+-c 200
+-l 150 "to"
+-c 50
+-s "perfect" 4
+-l 200 "perfect"
+-s "make" 4
+-l 50 "perfect"
+-c 50
+-c 200
+-l 50 "are"
+-l 200 "to"
+-l 150 "are"
+-s "be" 4
+-a "Jerry of the Islands" "Jack London" "2005" "1161.txt"
+-l 200 "are"
+-l 50 "to"
+-c 200
+-l 200 "make"
+-l 150 "be"
+-l 50 "are"
+-c 100
+-s "are" 4
+-s "make" 4
+-d 0
+-c 150
+-s "perfect" 4
+-l 150 "to"
+-s "are" 4
+-d 0
+-l 250 "to"
+-s "are" 4
+-s "make" 4
+-c 100
+-s "make" 4
+-l 50 "make"
+-l 200 "are"
+-s "are" 4
+-s "be" 4
+-l 250 "perfect"
+-s "perfect" 4
+-s "to" 4
+-l 250 "perfect"
+-l 150 "are"
+-s "perfect" 4
+-a "The Life of John Sterling" "Thomas Carlyle" "1997" "1085.txt"
+-l 200 "to"
+-s "to" 4
+-s "are" 4
+-c 50
+-l 0 "to"
+-s "be" 4
+-c 100
+-s "be" 4
+-s "to" 4
+-l 200 "make"
+-l 150 "perfect"
+-l 100 "to"
+-c 50
+-c 100
+-l 0 "be"
+-l 250 "to"
+-s "perfect" 4
+-s "are" 4
+-l 250 "to"
+-l 100 "are"
+-s "be" 4
+-l 250 "make"
+-l 150 "to"
+-c 200
+-l 50 "perfect"
+-l 0 "are"
+-d 0
+-l 250 "to"
+-d 0
+-l 50 "to"
+-a "A Strange Disappearance" "Anna Katharine Green" "1998" "1167.txt"
+-a "Divine Comedy, Longfellow's Translation, Hell" "Dante Alighieri" "1997" "1001.txt"
+-a "Nana, The Miller's Daughter, Captain Burle, Death of Olivier Becaille" "Emile Zola" "2006" "1069.txt"
+-l 50 "perfect"
+-c 200
+-c 200
+-s "perfect" 4
+-l 150 "make"
+-s "are" 4
+-s "are" 4
+-d 0
+-c 250
+-s "be" 4
+-l 100 "be"
+-s "to" 4
+-s "are" 4
+-s "are" 4
+-c 200
+-l 250 "be"
+-l 200 "perfect"
+-s "are" 4
+-c 150
+-s "are" 4
+-l 100 "to"
+-s "are" 4
+-d 50
+-s "to" 4
+-l 150 "perfect"
+-s "are" 4
+-s "are" 4
+-l 50 "to"
+-c 200
+-c 250
+-a "Renascence and Other Poems" "Edna St. Vincent Millay" "2008" "109.txt"
+-a "Anabasis" "Xenophon" "1998" "1170.txt"
+-d 0
+-l 50 "perfect"
+-c 150
+-s "perfect" 4
+-s "are" 4
+-s "make" 4
+-l 0 "perfect"
+-s "are" 4
+-l 150 "are"
+-l 50 "perfect"
+-s "to" 4
+-s "to" 4
+-c 100
+-l 50 "be"
+-d 0
+-s "to" 4
+-c 150
+-l 50 "to"
+-d 50
+-s "are" 4
+-c 200
+-l 50 "are"
+-c 50
+-s "perfect" 4
+-s "are" 4
+-s "perfect" 4
+-l 150 "are"
+-s "be" 4
+-l 0 "perfect"
+-s "perfect" 4
+-a "The Cask of Amontillado" "Edgar Allan Poe" "2010" "1063.txt"
+-s "to" 4
+-s "make" 4
+-l 250 "make"
+-s "are" 4
+-c 0
+-l 100 "perfect"
+-c 100
+-s "to" 4
+-l 250 "to"
+-c 100
+-l 50 "make"
+-l 100 "make"
+-l 100 "make"
+-c 200
+-s "make" 4
+-l 100 "make"
+-l 300 "be"
+-c 0
+-c 0
+-d 0
+-l 50 "be"
+-s "are" 4
+-c 100
+-s "be" 4
+-d 50
+-s "to" 4
+-s "are" 4
+-s "to" 4
+-s "make" 4
+-s "are" 4
+-a "The Divine Comedy of Dante:  Paradise" "Dante Alighieri" "2004" "1007.txt"
+-s "be" 4
+-c 100
+-s "be" 4
+-c 250
+-l 0 "make"
+-s "perfect" 4
+-l 150 "be"
+-s "perfect" 4
+-c 200
+-s "to" 4
+-c 50
+-c 0
+-c 200
+-s "be" 4
+-c 0
+-s "to" 4
+-l 100 "to"
+-c 250
+-s "be" 4
+-c 0
+-c 150
+-l 150 "be"
+-s "be" 4
+-c 250
+-s "be" 4
+-a "The Polity of the Athenians and the Lacedaemonians" "Xenophon" "1998" "1178.txt"
+-a "The Mirror of Kong Ho" "Ernest Bramah" "1997" "1077.txt"
+-s "are" 4
+-l 100 "be"
+-s "are" 4
+-d 50
+-s "be" 4
+-a "Mrs. Warren's Profession" "George Bernard Shaw" "2006" "1097.txt"
+-a "The Oregon Trail" "Francis Parkman, Jr." "2006" "1015.txt"
